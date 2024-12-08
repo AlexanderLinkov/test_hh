@@ -1,0 +1,20 @@
+{
+    "_default": {},
+    "templates": [
+        {
+            "name": "Contact Form",
+            "fields": {
+                "email": "email",
+                "message": "text"
+            }
+        },
+        {
+            "name": "Order Form",
+            "fields": {
+                "order_date": "date",
+                "customer_name": "text",
+                "phone_number": "phone"
+            }
+        }
+    ]
+}
